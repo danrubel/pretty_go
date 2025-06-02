@@ -1,6 +1,6 @@
-github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
-github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
+github.com/danrubel/pty_go v1.1.18-0.20250602203553-918e34195a9f/go.mod h1:9Iau9WSPpfGuweypSlM9yLbu/J3g1DFgDSorEc6kvwk=
+github.com/danrubel/text_go v0.0.0-20250602204246-ceedcfbe82c7 h1:GDqzOHUN+DtEIKB4V4ghk7ORIvWUzW1VgHX0A8ZUtsE=
+github.com/danrubel/text_go v0.0.0-20250602204246-ceedcfbe82c7/go.mod h1:vQPZTqzDmBXloSSCjsr86Wn+4x0HYbHIP4WGOuoPOdE=
 github.com/pkg/diff v0.0.0-20210226163009-20ebb0f2a09e/go.mod h1:pJLUxLENpZxwdsKMEsNbx1VGcRFpLqf3715MtcvvzbA=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
 github.com/rogpeppe/go-internal v1.9.0/go.mod h1:WtVeX8xhTBvf0smdhujwtBcq4Qrzq/fJaraNFVN+nFs=
